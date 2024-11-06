@@ -23,3 +23,6 @@
    새 브랜치에서 하는 작업이 끝나 merge하고 싶다면
    git checkout main
    git merge new-branch
+
+
+6. 잘 모르겠고 피곤하다 아침이니가
